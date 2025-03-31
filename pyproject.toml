@@ -1,0 +1,11 @@
+[project]
+name = "grad-decrease"
+version = "0.1.0"
+description = "梯度下降算法的minist手写数据集识别"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.1",
+    "scikit-image>=0.25.2",
+    "scikit-learn>=1.6.1",
+]
